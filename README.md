@@ -1,0 +1,1 @@
+# nuxt_filemanager_webpack_plugin_test
